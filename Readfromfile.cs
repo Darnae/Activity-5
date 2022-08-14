@@ -56,14 +56,7 @@ namespace Read_From_A_File
 
 
 
-                string first = "first";
-                string last = "last";
-                string second = "second";
-                FirstWord.Text = first;
-                LastWord.Text = last;
-                Vowels.Text = second;
-
-
+            
 
             }
         }
